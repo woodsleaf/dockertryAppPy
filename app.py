@@ -1,4 +1,4 @@
-print('hello')
+#print('hello')
 from flask import Flask
 from redis import Redis, RedisError
 import os
